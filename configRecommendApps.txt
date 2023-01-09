@@ -21,7 +21,7 @@
         ]
     },
     {
-        "hostId":"edublackboard",
+        "hostId":"basics",
         "configAppList":[
             {
                 "appName":"chrome",
