@@ -1,1 +1,44 @@
-[{"hostId":"eduboard","configAppList":[{"appName":"chrome","packageName":"com.android.chrome","apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/chrome.apk?inline=false","appIconUrl":"","appVersion":"","SHA1":""},{"appName":"WPS Office","packageName":"cn.wps.moffice_eng","apkUrl":"https://honeycomb-sr-public.wpscdn.cn/honeycomb/resources/public/76/32/3968/moffice_13.29.0_2052_cn00563_multidex_32_8c503357c2f.apk","appIconUrl":"","appVersion":"","SHA1":""},{"appName":"钉钉","packageName":"com.alibaba.android.rimet","apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/com.alibaba.android.rimet_6.5.55_1042.apk?inline=false","appIconUrl":"","appVersion":"1.2.65","SHA1":"g4y7u48fv5d5c4f88d5s5d65fd6"},{"appName":"腾讯会议","packageName":"com.tencent.wemeet.app","apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/TencentMeeting_0300000000_3.13.4.429.publish.apk?inline=false","appIconUrl":"","appVersion":"","SHA1":""}]},{"hostId":"****","configAppList":[{"appName":"WPS Office","packageName":"com.tencent.wemeet.app","apkUrl":"","appIconUrl":"","appVersion":"1.2.65","SHA1":"7h7ud48fv5d5c4f88d5s5d65fd6"}]}]
+[
+    {
+        "hostId":"eduboard",
+        "configAppList":[
+            {
+                "appName":"chrome",
+                "packageName":"com.android.chrome",
+                "apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/chrome.apk?inline=false",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            },
+            {
+                "appName":"WPS Office",
+                "packageName":"cn.wps.moffice_eng",
+                "apkUrl":"https://honeycomb-sr-public.wpscdn.cn/honeycomb/resources/public/76/32/3968/moffice_13.29.0_2052_cn00563_multidex_32_8c503357c2f.apk",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            }
+        ]
+    },
+    {
+        "hostId":"edublackboard",
+        "configAppList":[
+            {
+                "appName":"chrome",
+                "packageName":"com.android.chrome",
+                "apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/chrome.apk?inline=false",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            },
+            {
+                "appName":"WPS Office",
+                "packageName":"cn.wps.moffice_eng",
+                "apkUrl":"https://honeycomb-sr-public.wpscdn.cn/honeycomb/resources/public/76/32/3968/moffice_13.29.0_2052_cn00563_multidex_32_8c503357c2f.apk",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            }
+        ]
+    }
+]
