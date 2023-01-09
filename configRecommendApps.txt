@@ -5,7 +5,7 @@
             {
                 "appName":"chrome",
                 "packageName":"com.android.chrome",
-                "apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/chrome.apk?inline=false",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/chrome.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -13,7 +13,7 @@
             {
                 "appName":"WPS Office",
                 "packageName":"cn.wps.moffice_eng",
-                "apkUrl":"https://honeycomb-sr-public.wpscdn.cn/honeycomb/resources/public/76/32/3968/moffice_13.29.0_2052_cn00563_multidex_32_8c503357c2f.apk",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/wps_moffice_13.29.0_2052.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -26,7 +26,7 @@
             {
                 "appName":"chrome",
                 "packageName":"com.android.chrome",
-                "apkUrl":"https://jihulab.com/zhangmf/apk_down_public/-/raw/main/chrome.apk?inline=false",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/chrome.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -34,7 +34,7 @@
             {
                 "appName":"WPS Office",
                 "packageName":"cn.wps.moffice_eng",
-                "apkUrl":"https://honeycomb-sr-public.wpscdn.cn/honeycomb/resources/public/76/32/3968/moffice_13.29.0_2052_cn00563_multidex_32_8c503357c2f.apk",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/wps_moffice_13.29.0_2052.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
