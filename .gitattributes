@@ -1,0 +1,2 @@
+outlook.apk filter=lfs diff=lfs merge=lfs -text
+zoom.apk filter=lfs diff=lfs merge=lfs -text
