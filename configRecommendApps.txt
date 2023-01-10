@@ -70,6 +70,38 @@
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
+            },
+            {
+                "appName":"zoom",
+                "packageName":"us.zoom.videomeetings",
+                "apkUrl":"https://cdn.zoom.us/prod/5.12.8.9880/zoom.apk",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            },
+            {
+                "appName":"Outlook",
+                "packageName":"com.microsoft.office.outlook",
+                "apkUrl":"",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            },
+            {
+                "appName":"Teams",
+                "packageName":"com.microsoft.teams",
+                "apkUrl":"",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
+            },
+            {
+                "appName":"Worksheet Go!",
+                "packageName":"de.schoolcraft.worksheetgo",
+                "apkUrl":"",
+                "appIconUrl":"",
+                "appVersion":"",
+                "SHA1":""
             }
         ]
     }
