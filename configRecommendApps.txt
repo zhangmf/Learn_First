@@ -21,7 +21,7 @@
             {
                 "appName":"zoom",
                 "packageName":"us.zoom.videomeetings",
-                "apkUrl":"https://cdn.zoom.us/prod/5.12.8.9880/zoom.apk",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/zoom.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -29,7 +29,7 @@
             {
                 "appName":"Outlook",
                 "packageName":"com.microsoft.office.outlook",
-                "apkUrl":"",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/outlook.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -37,7 +37,7 @@
             {
                 "appName":"Teams",
                 "packageName":"com.microsoft.teams",
-                "apkUrl":"",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/MicrosoftTeams_2022674420_liqucn.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -45,7 +45,7 @@
             {
                 "appName":"Worksheet Go!",
                 "packageName":"de.schoolcraft.worksheetgo",
-                "apkUrl":"",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/worksheetgo.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -74,7 +74,7 @@
             {
                 "appName":"zoom",
                 "packageName":"us.zoom.videomeetings",
-                "apkUrl":"https://cdn.zoom.us/prod/5.12.8.9880/zoom.apk",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/zoom.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -82,7 +82,7 @@
             {
                 "appName":"Outlook",
                 "packageName":"com.microsoft.office.outlook",
-                "apkUrl":"",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/outlook.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -90,7 +90,7 @@
             {
                 "appName":"Teams",
                 "packageName":"com.microsoft.teams",
-                "apkUrl":"",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/MicrosoftTeams_2022674420_liqucn.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
@@ -98,7 +98,7 @@
             {
                 "appName":"Worksheet Go!",
                 "packageName":"de.schoolcraft.worksheetgo",
-                "apkUrl":"",
+                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/worksheetgo.apk",
                 "appIconUrl":"",
                 "appVersion":"",
                 "SHA1":""
