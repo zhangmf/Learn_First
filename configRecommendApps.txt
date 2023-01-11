@@ -35,14 +35,6 @@
                 "SHA1":""
             },
             {
-                "appName":"Teams",
-                "packageName":"com.microsoft.teams",
-                "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/MicrosoftTeams_2022674420_liqucn.apk",
-                "appIconUrl":"",
-                "appVersion":"",
-                "SHA1":""
-            },
-            {
                 "appName":"Worksheet Go!",
                 "packageName":"de.schoolcraft.worksheetgo",
                 "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/worksheetgo.apk",
