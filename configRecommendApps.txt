@@ -3,7 +3,7 @@
         "hostId":"basics2",
         "configAppList":[
             {
-                "appName":"chrome",
+                "appName":"Chrome",
                 "packageName":"com.android.chrome",
                 "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/chrome.apk",
                 "appIconUrl":"",
@@ -48,7 +48,7 @@
         "hostId":"eduboard",
         "configAppList":[
             {
-                "appName":"chrome",
+                "appName":"Chrome",
                 "packageName":"com.android.chrome",
                 "apkUrl":"https://github.com/zhangmf/Learn_First/raw/master/chrome.apk",
                 "appIconUrl":"",
