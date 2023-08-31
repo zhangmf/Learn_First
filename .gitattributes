@@ -1,3 +1,0 @@
-outlook.apk filter=lfs diff=lfs merge=lfs -text
-zoom.apk filter=lfs diff=lfs merge=lfs -text
-MicrosoftTeams_2022674420_liqucn.apk filter=lfs diff=lfs merge=lfs -text
